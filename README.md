@@ -1,2 +1,2 @@
 # dynamic-programming
-Programação dinâmica, problemas P e NP.
+Implementação de algoritmos para solução da terceira avaliação da matéria de Projeto e Análise de Algoritmos (PAA).
